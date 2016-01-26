@@ -4,3 +4,4 @@ db
 db.sqlite3 
 *.pyc
 lib
+.DS_Store
